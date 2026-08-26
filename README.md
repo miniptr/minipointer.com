@@ -1,2 +1,2 @@
 # minipointer.com
-cool web toys.
+A static website featuring a collection of fun, interactive web toys. 🎮✨
