@@ -1,2 +1,2 @@
 # minipointer.com
-A static website featuring a collection of fun, interactive web toys. 🎮✨
+A static website featuring a collection of fun, interactive games! 🎮✨
